@@ -1,0 +1,9 @@
+{
+    "notification": {
+        "marked": "Fordonet är markerat på kartan!",
+        "cannot_locate": "Det går inte att finna ditt fordon"
+    },
+    "states": {
+        "garage_unknown": "Okänt Garage"
+    }
+}
