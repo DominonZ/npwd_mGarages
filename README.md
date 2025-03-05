@@ -5,7 +5,8 @@ Garage Application for NPWD Phone
 ## Dependencies
 
 - [qbx_core](https://github.com/Qbox-project/qbx_core)
-- [mGarage](https://github.com/Qbox-project/mGarage)
+- [mGarage](https://github.com/Mono-94/mGarage)
+- [mVehicle](https://github.com/Mono-94/mGarage)
 - [ox_lib](https://github.com/overextended/ox_lib)
 - [oxmysql](https://github.com/overextended/oxmysql)
 - [NPWD](https://github.com/project-error/npwd)
