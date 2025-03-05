@@ -18,7 +18,3 @@ Garage Application for NPWD Phone
 2. Add app to NPWD config.json in the `apps` section `"apps": ["npwd_mGarage"]`
 
 #### Do not change the resource name. You must download the source code, alter `fetchNui.ts`, and build the project to change it.
-
-## Screenshots
-
-![dark](https://github.com/Qbox-project/npwd_mGarage/assets/7904473/0c67b147-ae82-47f4-acaf-83cd7c283e46) ![light](https://github.com/Qbox-project/npwd_mGarage/assets/7904473/ff44f9b4-7c63-41c0-8201-8b6d7a993446)
